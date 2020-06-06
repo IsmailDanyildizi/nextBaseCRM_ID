@@ -6,7 +6,9 @@ public class ClickUpload {
     WebDriver driver;
 
     public static void main(String[] args) {
-        System.out.println("yooa");
+        System.out.println("yoo");
+        System.out.println("123" +
+                "");
     }
 
 }
